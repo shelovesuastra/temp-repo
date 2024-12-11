@@ -1,2 +1,2 @@
-replicaCount = 0;
+replicaCount = 1;
 replica_count2 = 5;
