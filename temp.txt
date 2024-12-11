@@ -1,1 +1,1 @@
-PG_DBNAME="spec-mgmt"
+PG_DBNAME="spec_mgmt"
